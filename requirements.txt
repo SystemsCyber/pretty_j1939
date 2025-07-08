@@ -1,0 +1,5 @@
+asteval
+defusedxml
+unidecode
+xlrd
+bitstring<4.0
